@@ -1,0 +1,13 @@
+.editor-menubar {
+    -fx-font-size: 15;
+    -fx-background-color: #75715E;
+    -fx-fill: pink;
+    -fx-font-family: System;
+}
+
+.line-numbers-context-menu {
+    -fx-font-size: 15;
+    -fx-background-color: #75715E;
+    -fx-fill: pink;
+    -fx-font-family: System;
+}
